@@ -22,13 +22,13 @@ L'objectif était d'explorer **les bases de BabylonJS** tout en créant un gamep
 
 ### **3️⃣ Caméra dynamique & suivi du tank**
 - Mise en place d'une **FollowCamera** pour suivre le tank.
-- Ajout d'une **caméra libre** (activable avec la souris) permettant de regarder autour.
+- Ajout d'une **caméra libre** (activable avec la souris) permettant de regarder autour (ON PROGRESS).
 - Amélioration de la gestion de caméra pour **un effet plus naturel**, proche des jeux de conduite.
 
 ### **4️⃣ Terrain & environnement**
-- Création d’un **sol réaliste** de **1000x1000** avec une texture d’herbe (`grass.jpg`).
+- Création d’un **Sol** avec une texture d’herbe (`grass.jpg`).
 - Ajout d'une **Skybox** pour donner un effet d'environnement ouvert.
-- Test de plusieurs textures de sol (route pavée, terrain rocheux) avant de choisir une **texture d’herbe** pour un meilleur rendu.
+- Test de plusieurs textures de sol (route pavée, terrain rocheux).
 
 ### **5️⃣ Implémentation des bonus et obstacles**
 - Création de la classe **`GameObject.ts`** pour gérer **les objets interactifs** (bonus/malus).
