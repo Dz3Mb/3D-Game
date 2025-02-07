@@ -63,7 +63,7 @@ L'objectif était d'explorer **les bases de BabylonJS** tout en créant un gamep
 
 ### **Installation**
 ```sh
-git clone https://github.com/ton-repo/tank-game-babylonjs.git
-cd tank-game-babylonjs
+git clone https://github.com/Dz3Mb/3D-Game.git
+cd 3D-Game
 npm install
 npm run dev
